@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb"
            Inherits="SortBySummary._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v9.3, Version=9.3.1.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.4.0,
            Culture=neutral, PublicKeyToken=b88d1754d700e49a"
            Namespace="DevExpress.Web.ASPxPivotGrid"
            TagPrefix="dx" %>
