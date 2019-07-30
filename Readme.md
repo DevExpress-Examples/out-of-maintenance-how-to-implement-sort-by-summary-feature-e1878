@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to Implement Sort by Summary Feature
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1878)**
+**[[Run Online]](https://codecentral.devexpress.com/e1878/)**
 <!-- run online end -->
 
 
